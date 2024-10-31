@@ -1,0 +1,14 @@
+c:\Users\Dustin\workspace\ExtraVert\bin\Debug\net8.0\ExtraVert.exe
+c:\Users\Dustin\workspace\ExtraVert\bin\Debug\net8.0\ExtraVert.deps.json
+c:\Users\Dustin\workspace\ExtraVert\bin\Debug\net8.0\ExtraVert.runtimeconfig.json
+c:\Users\Dustin\workspace\ExtraVert\bin\Debug\net8.0\ExtraVert.dll
+c:\Users\Dustin\workspace\ExtraVert\bin\Debug\net8.0\ExtraVert.pdb
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.AssemblyInfoInputs.cache
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.AssemblyInfo.cs
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.csproj.CoreCompileInputs.cache
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.dll
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\refint\ExtraVert.dll
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.pdb
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ExtraVert.genruntimeconfig.cache
+c:\Users\Dustin\workspace\ExtraVert\obj\Debug\net8.0\ref\ExtraVert.dll
